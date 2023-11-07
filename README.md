@@ -8,4 +8,4 @@
 ![alt text](/src/figs/action%20area.png)
 
 ### Print Invoice
-![alt text](/src/figs/print%20option.pngg)
+![alt text](/src/figs/print%20option.png)
